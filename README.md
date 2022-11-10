@@ -1,2 +1,2 @@
 # alura-plus
-Plataforma Alura Plus desenvolvida no curso da Alura.
+Plataforma Alura+ desenvolvida no curso da Alura.
